@@ -15,15 +15,6 @@ The goal of these exercises was to practice:
 - Test Driven Development (TDD)
 - Collaboration workflows similar to real development teams
 
-## Contents
-
-- Git workflow exercises
-- CI/CD with GitHub Actions
-- Code quality setups (ESLint / Prettier)
-- Unit testing with Jest
-- TDD practice exercises
-- Branch policies & merge request simulations
-
 ## Note
 
-Each folder represents an independent learning exercise and may not be a complete production-ready project.
+Each folder represents an independent repository that can be found individually on my profile.
